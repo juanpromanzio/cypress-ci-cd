@@ -13445,7 +13445,7 @@ var app = (function () {
   const data_manual = [
       {
           "tool" : "Cucumber Studio",
-          "state" : "Assess",
+          "state" : "Trial",
           "link" : "https://cucumber.io/tools/cucumberstudio/"
       },
       {

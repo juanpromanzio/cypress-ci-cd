@@ -34,4 +34,4 @@ jobs:
           # Specify Browser since container image is compile with Firefox
           build: npm run build
           start: npm start
-          browser: firefox
+          browser: chrome

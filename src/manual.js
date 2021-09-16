@@ -1,7 +1,7 @@
 export const data_manual = [
     {
         "tool" : "Cucumber Studio",
-        "state" : "Trial",
+        "state" : "Hold",
         "link" : "https://cucumber.io/tools/cucumberstudio/"
     },
     {
